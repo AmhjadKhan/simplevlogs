@@ -1,11 +1,16 @@
 import React from 'react'
 import Blogs from './Components/Blogs/Blogs'
+import Header from './Components/Header'
+import BookMarks from './Components/Bookmarks/BookMarks'
 
 const App = () => {
   return (
     <div>
-      <h1>how are you</h1>
+      <Header />
+      <div className='md:flex'>
       <Blogs />
+      <BookMarks />
+      </div>
     </div>
   )
 }

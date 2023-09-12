@@ -4,9 +4,9 @@
       "cover": "https://assets.visme.co/templates/banners/thumbnails/i_Eating-Healthy-Facebook-Page_full.jpg",
       "title": "The Secret of Mystique",
       "author": "Alice Johnson",
-      "author-img": "https://assets.visme.co/templates/banners/thumbnails/i_Memories-Facebook-Page_full.jpg",
-      "posted-date": "2023-09-12",
-      "reading-time": "15 minutes",
+      "author_img": "https://assets.visme.co/templates/banners/thumbnails/i_Memories-Facebook-Page_full.jpg",
+      "posted_date": "2023-09-12",
+      "reading_time": 15,
       "hashtags": ["fiction", "mystery", "adventure"]
     },
     {
@@ -14,9 +14,9 @@
       "cover": "https://assets.visme.co/templates/banners/thumbnails/i_Memories-Facebook-Page_full.jpg",
       "title": "Journey to the Unknown",
       "author": "Bob Smith",
-      "author-img": "https://assets.visme.co/templates/banners/thumbnails/i_Eating-Healthy-Facebook-Page_full.jpg",
-      "posted-date": "2023-09-11",
-      "reading-time": "20 minutes",
+      "author_img": "https://assets.visme.co/templates/banners/thumbnails/i_Eating-Healthy-Facebook-Page_full.jpg",
+      "posted_date": "2023-09-11",
+      "reading_time": 20,
       "hashtags": ["science-fiction", "exploration"]
     },
     {
@@ -24,9 +24,9 @@
       "cover": "https://assets.visme.co/templates/banners/thumbnails/i_Alive-Facebook-Page_full.jpg",
       "title": "Cooking Delights",
       "author": "Eva Rodriguez",
-      "author-img": "https://assets.visme.co/templates/banners/thumbnails/i_Life-is-a-Party-Facebook-Page_full.jpg",
-      "posted-date": "2023-09-10",
-      "reading-time": "10 minutes",
+      "author_img": "https://assets.visme.co/templates/banners/thumbnails/i_Life-is-a-Party-Facebook-Page_full.jpg",
+      "posted_date": "2023-09-10",
+      "reading_time": 10,
       "hashtags": ["cooking", "recipes", "food"]
     },
     {
@@ -34,9 +34,9 @@
       "cover": "https://assets.visme.co/templates/banners/thumbnails/i_Life-is-a-Party-Facebook-Page_full.jpg",
       "title": "The Art of Painting",
       "author": "David Lee",
-      "author-img": "https://assets.visme.co/templates/banners/thumbnails/i_Alive-Facebook-Page_full.jpg",
-      "posted-date": "2023-09-09",
-      "reading-time": "25 minutes",
+      "author_img": "https://assets.visme.co/templates/banners/thumbnails/i_Alive-Facebook-Page_full.jpg",
+      "posted_date": "2023-09-09",
+      "reading_time": 24,
       "hashtags": ["art", "painting"]
     },
     {
@@ -44,9 +44,9 @@
       "cover": "https://assets.visme.co/templates/banners/thumbnails/i_Sky-Above-Facebook-Page_full.jpg",
       "title": "Travel Chronicles",
       "author": "Sophia Adams",
-      "author-img": "https://assets.visme.co/templates/banners/thumbnails/i_Camping-Facebook-Page_full.jpg",
-      "posted-date": "2023-09-08",
-      "reading-time": "30 minutes",
+      "author_img": "https://assets.visme.co/templates/banners/thumbnails/i_Camping-Facebook-Page_full.jpg",
+      "posted_date": "2023-09-08",
+      "reading_time": 12,
       "hashtags": ["travel", "adventure"]
     },
     {
@@ -54,9 +54,9 @@
       "cover": "https://assets.visme.co/templates/banners/thumbnails/i-Art-Hacks-Facebook-Page_full.jpg",
       "title": "Tech Talk",
       "author": "Michael Brown",
-      "author-img": "https://example.com/author6.jpg",
-      "posted-date": "2023-09-07",
-      "reading-time": "12 minutes",
+      "author_img": "https://example.com/author6.jpg",
+      "posted_date": "2023-09-07",
+      "reading_time": 13,
       "hashtags": ["technology", "gadgets"]
     },
     {
@@ -64,9 +64,9 @@
       "cover": "https://assets.visme.co/templates/banners/thumbnails/i_Dont-Quit-Facebook-Page_full.jpg",
       "title": "Health and Wellness",
       "author": "Laura Wilson",
-      "author-img": "https://assets.visme.co/templates/banners/thumbnails/i_Example-Facebook-Page_full.jpg",
-      "posted-date": "2023-09-06",
-      "reading-time": "18 minutes",
+      "author_img": "https://assets.visme.co/templates/banners/thumbnails/i_Example-Facebook-Page_full.jpg",
+      "posted_date": "2023-09-06",
+      "reading_time": 18,
       "hashtags": ["health", "wellness", "fitness"]
     },
     {
@@ -74,9 +74,9 @@
       "cover": "https://example.com/cover8.jpg",
       "title": "Nature's Beauty",
       "author": "Daniel Miller",
-      "author-img": "https://assets.visme.co/templates/banners/thumbnails/i-Restaurant-Specials-Facebook-Page_full.jpg",
-      "posted-date": "2023-09-05",
-      "reading-time": "22 minutes",
+      "author_img": "https://assets.visme.co/templates/banners/thumbnails/i-Restaurant-Specials-Facebook-Page_full.jpg",
+      "posted_date": "2023-09-05",
+      "reading_time": 22,
       "hashtags": ["nature", "photography"]
     },
     {
@@ -84,9 +84,9 @@
       "cover": "https://assets.visme.co/templates/banners/thumbnails/i-Restaurant-Specials-Facebook-Page_full.jpg",
       "title": "History Uncovered",
       "author": "Olivia Davis",
-      "author-img": "https://example.com/author9.jpg",
-      "posted-date": "2023-09-04",
-      "reading-time": "28 minutes",
+      "author_img": "https://example.com/author9.jpg",
+      "posted_date": "2023-09-04",
+      "reading_time": 14,
       "hashtags": ["history", "research"]
     },
     {
@@ -94,10 +94,9 @@
       "cover": "https://images.ctfassets.net/hrltx12pl8hq/1SOYk8vr3SXlQjbdvjhrfF/01a56dbce5cccbfe8858f31ba6bf5283/thumb_sept22_04.jpg?fit=fill&w=840&h=473&fm=webp",
       "title": "Inspirational Stories",
       "author": "James Taylor",
-      "author-img": "https://example.com/author10.jpg",
-      "posted-date": "2023-09-03",
-      "reading-time": "16 minutes",
+      "author_img": "https://example.com/author10.jpg",
+      "posted_date": "2023-09-03",
+      "reading_time": 15,
       "hashtags": ["inspiration", "motivation"]
     }
   ]
-  
