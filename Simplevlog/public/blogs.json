@@ -1,0 +1,103 @@
+[
+    {
+      "id": "1a2b3c4d",
+      "cover": "https://assets.visme.co/templates/banners/thumbnails/i_Eating-Healthy-Facebook-Page_full.jpg",
+      "title": "The Secret of Mystique",
+      "author": "Alice Johnson",
+      "author-img": "https://assets.visme.co/templates/banners/thumbnails/i_Memories-Facebook-Page_full.jpg",
+      "posted-date": "2023-09-12",
+      "reading-time": "15 minutes",
+      "hashtags": ["fiction", "mystery", "adventure"]
+    },
+    {
+      "id": "5e6f7d8c",
+      "cover": "https://assets.visme.co/templates/banners/thumbnails/i_Memories-Facebook-Page_full.jpg",
+      "title": "Journey to the Unknown",
+      "author": "Bob Smith",
+      "author-img": "https://assets.visme.co/templates/banners/thumbnails/i_Eating-Healthy-Facebook-Page_full.jpg",
+      "posted-date": "2023-09-11",
+      "reading-time": "20 minutes",
+      "hashtags": ["science-fiction", "exploration"]
+    },
+    {
+      "id": "9g0h1i2j",
+      "cover": "https://assets.visme.co/templates/banners/thumbnails/i_Alive-Facebook-Page_full.jpg",
+      "title": "Cooking Delights",
+      "author": "Eva Rodriguez",
+      "author-img": "https://assets.visme.co/templates/banners/thumbnails/i_Life-is-a-Party-Facebook-Page_full.jpg",
+      "posted-date": "2023-09-10",
+      "reading-time": "10 minutes",
+      "hashtags": ["cooking", "recipes", "food"]
+    },
+    {
+      "id": "3k4l5m6n",
+      "cover": "https://assets.visme.co/templates/banners/thumbnails/i_Life-is-a-Party-Facebook-Page_full.jpg",
+      "title": "The Art of Painting",
+      "author": "David Lee",
+      "author-img": "https://assets.visme.co/templates/banners/thumbnails/i_Alive-Facebook-Page_full.jpg",
+      "posted-date": "2023-09-09",
+      "reading-time": "25 minutes",
+      "hashtags": ["art", "painting"]
+    },
+    {
+      "id": "7o8p9q0r",
+      "cover": "https://assets.visme.co/templates/banners/thumbnails/i_Sky-Above-Facebook-Page_full.jpg",
+      "title": "Travel Chronicles",
+      "author": "Sophia Adams",
+      "author-img": "https://assets.visme.co/templates/banners/thumbnails/i_Camping-Facebook-Page_full.jpg",
+      "posted-date": "2023-09-08",
+      "reading-time": "30 minutes",
+      "hashtags": ["travel", "adventure"]
+    },
+    {
+      "id": "2s3t4u5v",
+      "cover": "https://assets.visme.co/templates/banners/thumbnails/i-Art-Hacks-Facebook-Page_full.jpg",
+      "title": "Tech Talk",
+      "author": "Michael Brown",
+      "author-img": "https://example.com/author6.jpg",
+      "posted-date": "2023-09-07",
+      "reading-time": "12 minutes",
+      "hashtags": ["technology", "gadgets"]
+    },
+    {
+      "id": "6w7x8y9z",
+      "cover": "https://assets.visme.co/templates/banners/thumbnails/i_Dont-Quit-Facebook-Page_full.jpg",
+      "title": "Health and Wellness",
+      "author": "Laura Wilson",
+      "author-img": "https://assets.visme.co/templates/banners/thumbnails/i_Example-Facebook-Page_full.jpg",
+      "posted-date": "2023-09-06",
+      "reading-time": "18 minutes",
+      "hashtags": ["health", "wellness", "fitness"]
+    },
+    {
+      "id": "1a2b3c4d",
+      "cover": "https://example.com/cover8.jpg",
+      "title": "Nature's Beauty",
+      "author": "Daniel Miller",
+      "author-img": "https://assets.visme.co/templates/banners/thumbnails/i-Restaurant-Specials-Facebook-Page_full.jpg",
+      "posted-date": "2023-09-05",
+      "reading-time": "22 minutes",
+      "hashtags": ["nature", "photography"]
+    },
+    {
+      "id": "5e6f7d8c",
+      "cover": "https://assets.visme.co/templates/banners/thumbnails/i-Restaurant-Specials-Facebook-Page_full.jpg",
+      "title": "History Uncovered",
+      "author": "Olivia Davis",
+      "author-img": "https://example.com/author9.jpg",
+      "posted-date": "2023-09-04",
+      "reading-time": "28 minutes",
+      "hashtags": ["history", "research"]
+    },
+    {
+      "id": "9g0h1i2j",
+      "cover": "https://images.ctfassets.net/hrltx12pl8hq/1SOYk8vr3SXlQjbdvjhrfF/01a56dbce5cccbfe8858f31ba6bf5283/thumb_sept22_04.jpg?fit=fill&w=840&h=473&fm=webp",
+      "title": "Inspirational Stories",
+      "author": "James Taylor",
+      "author-img": "https://example.com/author10.jpg",
+      "posted-date": "2023-09-03",
+      "reading-time": "16 minutes",
+      "hashtags": ["inspiration", "motivation"]
+    }
+  ]
+  
