@@ -1,7 +1,7 @@
 import  { useEffect, useState } from 'react'
 import Blog from '../blog/Blog'
 
-function Blogs() {
+function Blogs({handleAddtoBookMark}) {
     const [blogs, setBlogs] = useState([])
 
     useEffect(()=>{
@@ -11,11 +11,12 @@ function Blogs() {
     } ,[])
   return (
     <div className='md:w-2/3'>
-       <h1 className='text-4xl'>Blogs:{blogs.length}</h1>
+       <h1 className='text-4xl p-10'>Blogs:{blogs.length}</h1>
        {
-        blogs.map(blog => <Blog
-            key={blog.id} 
+        blogs.map((blog, i) => <Blog
+            key={blog.id + i } 
             blog={blog}
+            handleAddtoBookMark={handleAddtoBookMark}
             ></Blog>)
        }
     </div>
