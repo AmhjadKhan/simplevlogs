@@ -1,6 +1,6 @@
 import { FaBookmark } from "react-icons/fa";
 
-function Blog({blog, handleAddtoBookMark }) {
+function Blog({blog, handleAddtoBookMark, HandlemarkAsRead }) {
    const {title,cover,author,author_img,posted_date,reading_time,hashtags} = blog;
   return (
     <div className="mb-20">
@@ -26,6 +26,8 @@ function Blog({blog, handleAddtoBookMark }) {
           hashtags.map((hash, idx) =><span key={idx}><a href="">#{hash}</a> </span>)
         }
       </p>
+      <button onClick={()=>HandlemarkAsRead(reading_time)}
+      className="underline font-bold text-red-500">Mark As Read</button>
     </div>
   )
 }

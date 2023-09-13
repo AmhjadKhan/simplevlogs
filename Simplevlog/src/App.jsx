@@ -5,18 +5,23 @@ import BookMarks from './Components/Bookmarks/BookMarks'
 
 const App = () => {
   const [bookmarks, setBookmarks] = useState([])
+  const [readingtime, setRedingtime] = useState(0)
 
   const handleAddtoBookMark = blog =>{
       const Newbookmarks = [...bookmarks, blog]
          setBookmarks(Newbookmarks)
   }
 
+  const HandlemarkAsRead = time =>{
+    setRedingtime(readingtime + time)
+  }
   return (
     <div>
       <Header />
       <div className='md:flex'>
-      <Blogs handleAddtoBookMark={handleAddtoBookMark} />
-      <BookMarks bookmarks={bookmarks}/>
+      <Blogs handleAddtoBookMark={handleAddtoBookMark}
+       HandlemarkAsRead={HandlemarkAsRead} />
+      <BookMarks bookmarks={bookmarks} readingtime={readingtime} />
       </div>
     </div>
   )
